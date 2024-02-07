@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Macbook browser frame</h1><p align="center">
-  <img src="https://res.cloudinary.com/dzxorfube/image/upload/v1707290524/samples/website%20screenshot/Screenshot_2024-02-07_125141_yn0nyh.png" alt="Project Logo" width="200" />
+  <img src="https://res.cloudinary.com/dzxorfube/image/upload/v1707290524/samples/website%20screenshot/Screenshot_2024-02-07_125141_yn0nyh.png" alt="Project Logo" width="500" />
 </p>
 
 
