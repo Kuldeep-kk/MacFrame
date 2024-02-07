@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="https://your-image-url.com" alt="Project Logo" width="200" />
+</p>
 
-## Getting Started
+<h1 align="center">Project Name</h1>
 
-First, run the development server:
+<p align="center">
+  <b>Description</b>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  This project is built using Next.js and Tailwind CSS. It includes functionality to showcase your project within a Mac Safari browser frame, allowing you to easily post screenshots of your projects.
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p align="center">
+  <b>Features</b>
+</p>
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Next.js**: Server-side rendering and routing.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+- **Safari Browser Frame**: Showcase your projects within a realistic Mac Safari browser frame.
+- **Easy Screenshot Posting**: Quickly post screenshots of your projects for showcasing purposes.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<p align="center">
+  <b>Live View</b>
+</p>
 
-## Learn More
+<p align="center">
+  Check out the live view of this project [here](https://your-live-view-url.com).
+</p>
 
-To learn more about Next.js, take a look at the following resources:
+<p align="center">
+  <b>Installation</b>
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/your-repo.git
